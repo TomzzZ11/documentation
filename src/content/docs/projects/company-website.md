@@ -49,4 +49,11 @@ To present the contributions made during the trimester, the following deliverabl
 | Mentorship           | <ul><li>Guided and directed team members on different technical issues like GitHub clone, fork, merge</li><li>Mentored team members on website deployment in their local devices</li><li>Guided backend developers on database management</li><li>Helped and clarified juniors on OnTrack tasks</li></ul>    |
 | Non-technical        | <ul><li>Sketched sequence diagram for the Blog backend functionality</li><li>Developed the Entity Relationship Diagram of the 'Blog' and 'Contact Us' features </li> <li>Illustrated the functionality of GitHub Fork, Merge and Pull Request Creation in the form of a flow diagram</li></ul>    |
 
+### Zoe Kira Chambers Team Member
 
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | <ul><li> no leadership </li></ul> |
+| Technical            | <ul><li> Added the navigation to every page that is visible by users on the website</li><li> Created the email validation pattern for any page that has a form that requires a valid email </li><li> Added images and project cards to the 'What We Do' page </li></ul>    |
+| Mentorship           | <ul><li> Helped Manan with the navigation and help Fangzhou with the email validation </li></ul>    |
+| Non-technical        | <ul><li> no non-technical shown </li></ul>   |
