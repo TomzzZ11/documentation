@@ -40,6 +40,15 @@ To present the contributions made during the trimester, the following deliverabl
 
 ## Mid-Trimester Contributions
 
+### Md Kaviul Hossain, Project Lead & Company Documentation Lead
+
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | <ul> <li>Presented project overview, objectives and goals to the Company Director and product owner </li><li>Hosted Meet & Greet session in which all team members were briefed about the project </li> <li> Divided the team into Frontend and Backend groups based on their preferences</li> <li>Hosted weekly sprints twice per week (till Week 5)</li><li> Conducted interviews and elected Co-leads </li><li> Solved 2 merge conflicts in GitHub</li> <li> Accepted 9 pull requests in GitHub (till Week 5)</li> <li>  Added tasks to Trello boards </li> <li> Made tutorial on GitHub forking, cloning, merging and creating Pull Requests </li><li>Documented OnTrack task 2.1P on behalf of the company</li></ul> |
+| Technical            | <ul><li> Deployed the current version of the website on 'Python Anywhere' PaaS </li><li>Developed 'Blog' for the Hardhat website where users can write and upload blogs</li><li> Fixed the footer links including the Hardhat logo link </li><li> Added a 'What-we-do' page and fixed its link in 'About-us' page</li><li>Added database functionality to the 'Join Us' form on the 'About-us' page</li></ul>    |
+| Mentorship           | <ul><li>Guided and directed team members on different technical issues like GitHub clone, fork, merge</li><li>Mentored team members on website deployment in their local devices</li><li>Guided backend developers on database management</li><li>Helped and clarified juniors on OnTrack tasks</li></ul>    |
+| Non-technical        | <ul><li>Sketched sequence diagram for the Blog backend functionality</li><li>Developed the Entity Relationship Diagram of the 'Blog' and 'Contact Us' features </li> <li>Illustrated the functionality of GitHub Fork, Merge and Pull Request Creation in the form of a flow diagram</li></ul>    |
+
 ### Zoe Kira Chambers Team Member
 
 | Type                 | Contributions   |
@@ -48,5 +57,3 @@ To present the contributions made during the trimester, the following deliverabl
 | Technical            | <ul><li> Added the navigation to every page that is visible by users on the website</li><li> Created the email validation pattern for any page that has a form that requires a valid email </li><li> Added images and project cards to the 'What We Do' page </li></ul>    |
 | Mentorship           | <ul><li> Helped Manan with the navigation and help Fangzhou with the email validation </li></ul>    |
 | Non-technical        | <ul><li> no non-technical shown </li></ul>   |
-
-
