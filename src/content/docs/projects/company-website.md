@@ -57,3 +57,12 @@ To present the contributions made during the trimester, the following deliverabl
 | Technical            | <ul><li> Added the navigation to every page that is visible by users on the website</li><li> Created the email validation pattern for any page that has a form that requires a valid email </li><li> Added images and project cards to the 'What We Do' page </li></ul>    |
 | Mentorship           | <ul><li> Helped Manan with the navigation and help Fangzhou with the email validation </li></ul>    |
 | Non-technical        | <ul><li> no non-technical shown </li></ul>   |
+
+### Fangzhou Zhao, Team Member
+
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | <ul><li> no leadership </li></ul> |
+| Technical            | <ul><li> Issues in "Want to Work with Us?" Section on Malware Visualization, fix Enter an invalid or incomplete email address in the email field. Observe that the button leads to  the destination or performs any action. fix(Observe that the UI position of the "Send" button is not accurate.) Create collect user want join us page detail in admin pages, and work with zeyu chen on the footer, The footer content is  aligned now. </li></ul> |
+| Mentorship           | <ul><li> in mentorship, me and zeyu chen we had 5 hours discussion on the set environment and uploaded and sync our part of github issue, and we got helped from Md Kaviul Hossain, in zeyu's meeting we discuss about the footer pages,and teamwork on  UIUX pages </li></ul>    |
+| Non-technical        | <ul><li> i have been improve my communication and team work skill, which show on every team meeting and work through trello board success. </li></ul>   |
